@@ -50,7 +50,7 @@
 ### 🏆 Global GitHub Trophies & Milestones
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdulkerim-builder01&theme=tokyonight" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abdulkerim-builder01" alt="GitHub Trophies" />
 </div>
 
 ---
