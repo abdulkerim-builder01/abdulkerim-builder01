@@ -1,121 +1,203 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,4,10,15,20&height=260&section=header&text=ABDULKERIM%20SEID&fontSize=42&fontColor=00FFFF&animation=fadeIn&fontAlignY=32&desc=PRINCIPAL%20SOFTWARE%20ARCHITECT%20&%20SYSTEMS%20ENGINEER&descSize=16&descColor=FFFFFF&descAlignY=62" width="100%"/>
+  <!-- ═══════════════════════════════════════════════════════════════ -->
+  <!-- ABDULKERIM BUILDER -->
+  <!-- ═══════════════════════════════════════════════════════════════ -->
+  <a href="https://github.com/abdulkerim-builder01">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,35:0F172A,65:312E81,100:7C3AED&text=ABDULKERIM%20BUILDER&fontSize=54&fontColor=FFFFFF&fontAlignY=38&desc=PRINCIPAL%20SOFTWARE%20ARCHITECT%20%7C%20FULL-STACK%20%26%20MOBILE%20SYSTEMS%20ENGINEER&descAlignY=62&descSize=15&animation=fadeIn" width="100%" alt="Abdulkerim Builder" />
+  </a>
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=7DD3FC&center=true&vCenter=true&width=800&lines=Architecture+first.+Product+second.+Execution+always.;Designing+systems+that+scale+with+the+product.;Full-Stack+%7C+Mobile+%7C+Cloud+%7C+AI;Building+NexAura+%7C+Ethiopian+Business+OS+%7C+Orion+AI+Nexus" alt="Animated Engineering Introduction"/>
+  <br><br>
+  <a href="https://github.com/abdulkerim-builder01">
+    <img src="https://img.shields.io/badge/PRINCIPAL_ARCHITECT-050816?style=for-the-badge&logo=github&logoColor=white" alt="Principal Architect">
+  </a>
+  <a href="https://github.com/abdulkerim-builder01">
+    <img src="https://img.shields.io/badge/FULL--STACK-0891B2?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack">
+  </a>
+  <a href="https://github.com/abdulkerim-builder01">
+    <img src="https://img.shields.io/badge/MOBILE-7C3AED?style=for-the-badge&logo=android&logoColor=white" alt="Mobile Engineering">
+  </a>
+  <a href="https://github.com/abdulkerim-builder01">
+    <img src="https://img.shields.io/badge/AI_SYSTEMS-DB2777?style=for-the-badge&logo=openai&logoColor=white" alt="AI Systems">
+  </a>
+  <br><br>
+  <a href="https://github.com/abdulkerim-builder01">
+    <img src="https://komarev.com/ghpvc/?username=abdulkerim-builder01&style=for-the-badge&color=312E81&label=PROFILE+VIEWS" alt="Profile Views">
+  </a>
+  <a href="https://github.com/abdulkerim-builder01?tab=followers">
+    <img src="https://img.shields.io/github/followers/abdulkerim-builder01?style=for-the-badge&color=0891B2&label=FOLLOWERS&logo=github" alt="Followers">
+  </a>
+  <br><br>
+  <a href="https://github.com/abdulkerim-builder01">
+    <img src="https://img.shields.io/badge/GITHUB-ABDULKERIM--BUILDER01-FFFFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=050816" alt="GitHub">
+  </a>
+  <a href="https://t.me/ethio_ABDULKERIM">
+    <img src="https://img.shields.io/badge/TELEGRAM-CONNECT-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="https://youtube.com/@ethio_abdulkerim">
+    <img src="https://img.shields.io/badge/YOUTUBE-CHANNEL-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
 </div>
+
+<br>
 
 <div align="center">
-  <p><h3>⚡ MASTERING THE PINNACLE OF ENTERPRISE SOFTWARE ENGINEERING ⚡</h3></p>
-  <p><i>"Architecture first. Product second. Execution always."</i></p>
-  
-  <p>
-    <a href="https://t.me/ethio_ABDULKERIM" target="_blank"><img src="https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&color=111111" /></a>
-    <a href="https://youtube.com/@ethio_abdulkerim" target="_blank"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white&color=111111" /></a>
-    <a href="mailto:abdumullim23@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=111111" /></a>
-  </p>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553dd.gif" width="850" alt="Developer coding animation" />
 </div>
 
----
+<br>
 
-### 💻 Live Engineering Workspace
+## ⚡ `01` — Executive Profile
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553dd.gif" width="100%" alt="Coding Workspace Animation">
+  <h3><b>Abdulkerim Seid</b></h3>
+  <h4><i>Abdulkerim Builder</i></h4>
+  <p>`Principal Software Architect` · `Full-Stack Engineer` · `Mobile Systems Engineer` · `AI Systems Engineer`</p>
 </div>
 
----
+<br>
 
-### 01 — Executive Profile
+I build software from the **architecture outward**. My work sits at the intersection of product engineering, system architecture, modern interface design, cloud infrastructure, mobile systems, and AI integration. I care deeply about the boundary between a beautiful product and the engineering required to make that product reliable.
 
-I design systems, engineer products, and build software that is meant to scale.
+> **Architecture first. Product second. Execution always.**
 
-I am Abdulkerim Seid, professionally known as Abdulkerim Builder — a Principal Software Architect and Full-Stack Web & Cross-Platform Mobile Systems Engineer focused on designing sophisticated digital products from the architectural foundation to production deployment.
+I specialize in turning ambitious product concepts into structured, maintainable systems — from the first architectural decision to the frontend experience, backend services, database layer, AI integrations, mobile delivery, and production infrastructure.
 
-**Core Engineering Focus:**
-* Enterprise software architecture & micro-services
-* Full-stack web application engineering (React, TypeScript, Tailwind)
-* Cross-platform and native mobile systems (Kotlin, Capacitor)
-* AI and multi-provider workflow architecture (OpenAI, Gemini)
-* Cloud database and backend engineering (Supabase, PostgreSQL)
-* Secure, maintainable, and scalable application infrastructure
-
-*I approach software as a system, not merely a collection of screens.*
-
----
-
-### 02 — Architecture Manifesto
-
-> **ARCHITECTURE FIRST** → Understand the system before implementing.  
-> **PRODUCT SECOND** → Technology solves meaningful product problems.  
-> **EXECUTION ALWAYS** → Architecture matters only when it becomes working software.  
-> **DESIGN FOR CHANGE** → Build systems that evolve without fragility.  
-> **SECURITY BY DEFAULT** → Data boundaries belong inside the core architecture.  
-
-**Engineering Priorities:** 
-Scalability ➔ Security ➔ Maintainability ➔ Performance ➔ Developer Experience ➔ User Experience
-
----
-
-### 03 — Core Engineering Domains
-
-| Domain | Engineering Scope | Core Technologies |
-| :--- | :--- | :--- |
-| **Enterprise Architecture** | Modular architecture, system boundaries, API contracts | TypeScript · PostgreSQL · REST |
-| **Full-Stack Web** | High-performance production web applications | React · TypeScript · Tailwind CSS |
-| **Backend Engineering** | Secure APIs, authentication, persistence and services | Supabase · PostgreSQL · REST |
-| **Mobile Engineering** | Native and cross-platform application systems | Kotlin · Capacitor · Android |
-| **AI Engineering** | Model abstraction, provider orchestration, workflows | OpenAI · Gemini · Multi-Provider APIs |
-| **Cloud Operations** | Deployment, automation and production infrastructure | GitHub · CI/CD · Cloud Platforms |
-
----
-
-### 04 — Advanced Technology Ecosystem
+<br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,nodejs,express,supabase,postgres,firebase,kotlin,androidstudio,git,github,vscode,linux,docker,vercel,vite,postman&theme=dark" />
+  `SYSTEMS`　`PRODUCTS`　`ARCHITECTURE`　`AI`　`MOBILE`　`CLOUD`
 </div>
 
 ---
 
-### 05 — Featured Enterprise Systems
-
-* **🌟 NexAura:** AI-Oriented Multi-Feature Digital Ecosystem combining modern web architecture, AI-assisted workflows, and mobile-ready experiences.
-* **💼 Ethiopian Business OS:** Business operating system for digital commerce designed to consolidate merchant workflows, payments, and productivity into a unified platform.
-* **🚀 Orion AI Nexus:** Centralized AI command center and developer intelligence architecture for multi-provider model access and automation.
-
----
-
-### 06 — Enterprise Analytics & Performance Metrics
+## 🧠 `02` — Engineering Philosophy
 
 <div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=abdulkerim-builder01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&line_height=30&ring_color=00FFFF" alt="Abdulkerim's Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulkerim-builder01&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulkerim-builder01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  </p>
+
+| ⚙️ Principle | 🎯 Engineering Standard |
+|:---:|---|
+| **Architecture First** | Understand the system before implementing the system. |
+| **Product Driven** | Technology should remove real-world friction. |
+| **Design With Intent** | Interfaces should feel engineered, not assembled. |
+| **Secure by Default** | Security belongs inside the architecture. |
+| **Build for Change** | Good systems make future evolution cheaper. |
+| **Automate Everything Reasonable** | Engineering effort should compound. |
+| **Ship** | A perfect architecture that never reaches production has no impact. |
+
 </div>
 
----
+<br>
 
-### 07 — Real-Time Contribution Snake Animation
+```text
+┌─────────────────────┐
+│       VISION        │
+└──────────┬──────────┘
+           │
+           ▼
+┌─────────────────────┐
+│    ARCHITECTURE     │
+└──────────┬──────────┘
+           │
+ ┌─────────┴─────────┐
+ ▼         ▼         ▼
+EXPERIENCE SERVICES DATA
+           │
+           └─────────┬─────────┘
+                     ▼
+                 AI + CLOUD
+                     │
+                     ▼
+                 PRODUCTION
 
+```
+## 💻 03 — Elite Technology Ecosystem
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abdulkerim-builder01/abdulkerim-builder01/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,nodejs,express,supabase,postgres,firebase,kotlin,androidstudio,git,github,vscode,linux,docker,vercel,vite,postman&theme=dark" />
 </div>
-
----
-
-### 08 — Profile Visitor Traffic
-
+## 🏗️ 04 — System Architecture
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdulkerim-builder01&color=00ffff&style=for-the-badge" alt="Visitor Count" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=7DD3FC" width="80%" alt="" />
 </div>
+```text
+┌─────────────────────────────────────────────────────────────────────┐
+│                         EXPERIENCE LAYER                            │
+│                                                                     │
+│    React Web Applications    │    Mobile Applications               │
+│    Responsive Interfaces     │    Kotlin / Capacitor                │
+└──────────────────────────────────┬──────────────────────────────────┘
+                                   │
+                                   ▼
+┌─────────────────────────────────────────────────────────────────────┐
+│                         APPLICATION CORE                            │
+│                                                                     │
+│    Domain Logic │ State │ Validation │ Authentication │ Workflows   │
+└──────────────────────────────────┬──────────────────────────────────┘
+                     ┌─────────────┼─────────────┐
+                     │             │             │
+                     ▼             ▼             ▼
+              ┌─────────────┐┌─────────────┐┌─────────────┐
+              │  API LAYER  ││ DATA LAYER  ││  AI LAYER   │
+              │             ││             ││             │
+              │  REST APIs  ││ PostgreSQL  ││   OpenAI    │
+              │  Services   ││  Supabase   ││   Gemini    │
+              │Integrations ││   Storage   ││ AI Providers│
+              └──────┬──────┘└──────┬──────┘└──────┬──────┘
+                     │              │              │
+                     └──────────────┼──────────────┘
+                                    │
+                                    ▼
+┌─────────────────────────────────────────────────────────────────────┐
+│                         CLOUD OPERATIONS                            │
+│                                                                     │
+│    CI/CD  │  Deployment  │  Secrets  │  Monitoring  │  Backups      │
+└─────────────────────────────────────────────────────────────────────┘
 
----
-
+```
+## 🚀 05 — Proprietary Systems
+### ✦ NexAura — AI-Oriented Digital Ecosystem
+NexAura is envisioned as a multi-feature digital ecosystem combining modern application architecture, intelligent workflows, document-oriented functionality, and mobile-ready experiences.
+ * **Architecture Focus:** AI Workflows · Document Intelligence · Feature Modules · Authentication · Cloud Data · Mobile Experience
+### ✦ Ethiopian Business OS — Digital Business Infrastructure
+A unified business-oriented system designed around practical merchant workflows, financial utilities, documents, payment workflows, and productivity.
+| System Layer | Architectural Responsibility |
+|---|---|
+| 🏪 **Business Experience** | Merchant workflows, dashboards and productivity tools |
+| 💳 **Payment Engine** | Structured payment destinations and transaction workflows |
+| 📊 **Financial Tools** | Cash flow, receipts, calculations and records |
+| 📄 **Document Engine** | Agreements, contracts and business documents |
+| 🃃 **Data Layer** | Persistent business information |
+| 📱 **Mobile Layer** | Mobile-ready business experience |
+| ☁️ **Cloud Layer** | Authentication, synchronization and backend services |
+### ✦ Orion AI Nexus — AI Command Center
+A centralized AI engineering environment designed around multi-provider model access, developer workflows, code analysis, intelligent automation, and extensible AI infrastructure.
+## 📊 06 — GitHub Analytics & Performance Metrics
 <div align="center">
-  <h3><b>BUILD • SCALE • IMPROVE</b></h3>
-  <p><b>Abdulkerim Builder</b></p>
-  <p><i>Principal Software Architect · Full-Stack Engineer · Mobile Systems Engineer · AI Systems Engineer</i></p>
-  <p>© 2026 Abdulkerim Seid. All rights reserved. Engineering with purpose.</p>
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=abdulkerim-builder01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&line_height=30&ring_color=00FFFF" alt="Abdulkerim's Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulkerim-builder01&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulkerim-builder01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
 </div>
+## 🐍 07 — Contribution Snake Animation
+<div align="center">
+<img src="https://raw.githubusercontent.com/abdulkerim-builder01/abdulkerim-builder01/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
+## 💬 08 — Engineering Principles
+> *"Architecture first. Product second. Execution always."*
+> *"Good architecture makes future change cheaper."*
+> *"Complexity is not sophistication. Controlled complexity is engineering."*
+> *"Build systems that remain understandable after the original author leaves the room."*
+> *"The best technology is the technology that makes the product feel inevitable."*
+> 
+<div align="center">
+<h3><b>BUILD • SCALE • IMPROVE</b></h3>
+<p><b>Abdulkerim Builder</b></p>
+<p><i>Principal Software Architect · Full-Stack Systems Engineer · Mobile Engineer · AI Systems Engineer</i></p>
+<p>© 2026 Abdulkerim Seid · Abdulkerim Builder. Engineering with purpose.</p>
+</div>
+```
+
+```
