@@ -47,10 +47,10 @@
 
 ---
 
-### 🏆 Global GitHub Trophies & Milestones
+### 📈 Contribution Activity Graph
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdulkerim-builder01" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulkerim-builder01&theme=tokyo-night&hide_border=true&radius=10" alt="Activity Graph" />
 </div>
 
 ---
